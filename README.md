@@ -34,3 +34,20 @@ class DataHolder {
 }
 ```
 
+##### _Ejemplo de Spinner customizado en Dart-Flutter_
+
+```dart
+Container(
+  width: MediaQuery.of(context).size.width*0.5,
+  decoration: const BoxDecoration(
+    shape: BoxShape.circle,
+    color: Colors.green,
+  ),
+  padding: EdgeInsets.all(MediaQuery.of(context).size.width*0.1),
+  child: const CircularProgressIndicator(
+    color: Colors.white,
+    backgroundColor: Colors.black,
+  ),
+),
+```
+
