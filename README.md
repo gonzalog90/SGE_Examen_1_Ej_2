@@ -51,3 +51,10 @@ Container(
 ),
 ```
 
+##### _Visualización del ejemplo de spinner anterior_
+
+![spinner1](./spinner_img_1.png)
+![spinner1](./spinner_img_2.png)
+
+
+
