@@ -12,6 +12,25 @@
 #### 4. Etiqueta de versión del repositorio. 
 
 
+##### _Ejemplo de Singleton en Dart, DataHolder para guardar el Usuario_
+
+```dart
+
+class DataHolder {
+
+  static final DataHolder _dataHolderInstance =  DataHolder._internal();
+
+  Profile profile = Profile();
 
 
+  DataHolder._internal() {
+    //
+  }
+
+  factory DataHolder() {
+    return _dataHolderInstance;
+  }
+
+}
+```
 
