@@ -8,8 +8,8 @@
 ### Requisitos del ejercicio:
 #### 1. Agregar imágenes.
 #### 2. Emplear títulos de diferentes tamaños.
-#### 3. Enlaces a otras páginas. 
-#### 4. Etiqueta de versión del repositorio. 
+#### 3. Enlaces a otras páginas [aqui](#enlaces) 
+#### 4. Etiqueta de versión del repositorio [aqui](#etiqueta-version-del-repositorio). 
 
 
 ##### _Ejemplo de Singleton en Dart, DataHolder para guardar el Usuario_
@@ -50,6 +50,7 @@ Container(
   ),
 ),
 ```
+#### **Enlaces:**
 
 **[Ejemplo completo de Spinner](./examples/spinner_complete_example.md)**
 
@@ -62,4 +63,7 @@ Container(
 ![spinner1](./spinner_img_2.png)
 
 
+#### Etiqueta version del repositorio
+
+[![version](https://img.shields.io/badge/version-0.0.1-green.svg)](https://semver.org)
 
