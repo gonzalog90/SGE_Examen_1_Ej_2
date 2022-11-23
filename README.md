@@ -53,6 +53,8 @@ Container(
 
 **[Ejemplo completo de Spinner](./examples/spinner_complete_example.md)**
 
+**[Respuestas sobre Spinner en StackOverflow](https://stackoverflow.com/questions/47065098/how-to-work-with-progress-indicator-in-flutter)**
+
 
 ##### _Visualización del ejemplo de spinner anterior_
 
